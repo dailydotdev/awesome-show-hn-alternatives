@@ -47,6 +47,7 @@ Show HN is still one of the best places to launch a developer tool, but a post g
 - [BetaList](https://betalist.com) - Directory of upcoming startups where early adopters sign up for early access.
 - [Tiny Startups](https://www.tinystartups.com) - Pay-what-you-want launch platform and startup directory.
 - [Launching Next](https://www.launchingnext.com) - Daily showcase of new startups with a submission form for founders.
+- [Awesome Indie](https://awesomeindie.com) - Daily launch platform for indie makers and solo founders, with products ranked by community upvotes.
 
 ## Directories and alternatives sites
 
