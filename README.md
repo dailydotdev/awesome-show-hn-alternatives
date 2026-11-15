@@ -2,7 +2,7 @@
 
 > Places to show developers what you built, beyond Show HN.
 
-Show HN is still one of the best places to launch a developer tool, but a post gets one shot at the front page and then drops out of sight. Most launches that keep growing are posted in several places, each with its own audience and rules. This list covers link aggregators, developer communities, launch platforms, directories, newsletters and subreddits where developers find new projects.
+Show HN is still one of the best places to launch a developer tool, but a post gets one shot at the front page and then drops out of sight. Most launches that keep growing are posted in several places, each with its own audience and rules. This list covers link aggregators, developer communities, launch platforms, directories, newsletters and subreddits where developers find new projects. It doubles as a list of Product Hunt alternatives for developer tools.
 
 ## Contents
 
@@ -102,6 +102,8 @@ Show HN is still one of the best places to launch a developer tool, but a post g
 - [Awesome developer-first channels](https://github.com/fmerian/awesome-developer-first-channels) - Hand-picked places to promote developer-first products.
 - [Places to post your startup](https://github.com/mmccaff/PlacesToPostYourStartup) - Links compiled from an Ask HN thread on where to post a startup for beta users.
 - [Awesome developer marketing](https://github.com/dailydotdev/awesome-developer-marketing) - Tools, platforms and resources for marketing to software developers.
+- [Awesome open source promotion](https://github.com/dailydotdev/awesome-open-source-promotion) - Ways to get an open source project in front of the developers who need it.
+- [Awesome developer community platforms](https://github.com/dailydotdev/awesome-developer-community-platforms) - Platforms and tools for building a community around a developer tool or open source project.
 
 ## Contributing
 
