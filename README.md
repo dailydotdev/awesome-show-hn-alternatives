@@ -56,6 +56,7 @@ Show HN is still one of the best places to launch a developer tool, but a post g
 - [SaaSHub](https://www.saashub.com) - Directory of software alternatives and new startups.
 - [OpenAlternative](https://openalternative.co) - Curated directory of open source alternatives to popular SaaS products.
 - [Futurepedia](https://www.futurepedia.io) - Directory of AI tools, updated daily.
+- [MEDIAPRONET](https://mediapronet.com) - Directory where founders list new startups, SaaS tools and indie products, each with its own page.
 
 ## Open source discovery
 
